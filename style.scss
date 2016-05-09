@@ -258,7 +258,10 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
+  /* padding-bottom: 2em; */
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-rigt: 20px;
   border-bottom: 1px solid $lightGray;
   background-color: #E7E7E7;
 }

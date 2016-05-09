@@ -45,7 +45,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  margin: 5px 0 15px;
   font-size: 30px;
   a {
     color: inherit;
@@ -332,6 +331,7 @@ footer {
   line-height: 26px;
   padding: 0 20px 0 23px;
   position: relative;
+  top: 10px;
   margin: 0 10px 10px 0;
   text-decoration: none;
   -webkit-transition: color 0.2s;

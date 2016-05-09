@@ -221,6 +221,10 @@ nav {
   background-color: #e7e7e7; 
     border: none;
     color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    
 
   @include mobile {
     float: none;

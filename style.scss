@@ -211,6 +211,8 @@ img {
 }
 
 nav {
+  position: relative;
+  top: 80px;
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;

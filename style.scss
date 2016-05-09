@@ -260,6 +260,7 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
+  background-color: #f7f7f7;
 }
 
 .posts > .post:last-child {
@@ -268,8 +269,6 @@ nav {
 }
 
 .post {
-	background-color: #f7f7f7;
-	
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;

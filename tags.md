@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Tags
-description: Stochastic stuff blog's tags. List of articles and posts by tags.
+description: Seznam příspěvků dle tagů.
+permalink: /tags/
 ---
 
 <!-- Get the tag name for every tag on the site and set them

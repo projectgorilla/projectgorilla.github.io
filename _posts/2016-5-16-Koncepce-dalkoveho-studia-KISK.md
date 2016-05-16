@@ -4,7 +4,7 @@ title: Koncepce dálkového studia na KISKu
 tags: kisk předměty
 ---
 
-## Co se z oficiálních zdrojů při zvažování dálkového studia na KISKu nedozvíte
+## Co se z oficiálních zdrojů o dálkovém studiu na KISKu nedozvíte
 
 Na tomto místě bychom se rádi podělili o zkušenosti z kombinovaného studia na KISKu. 
 

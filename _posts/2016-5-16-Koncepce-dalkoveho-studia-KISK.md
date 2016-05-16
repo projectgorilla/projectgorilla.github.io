@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Koncepce dálkového studia na KISKu
-tags: kisk předměty
+tags: kisk
 ---
 
 ## Co se z oficiálních zdrojů o dálkovém studiu nedozvíte

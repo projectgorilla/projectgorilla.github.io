@@ -5,13 +5,13 @@ tags: kisk předměty
 ---
 
 ## Co se z oficiálních zdrojů o dálkovém studiu nedozvíte
-Na tomto místě bychom se rádi podělili o zkušenosti z kombinovaného studia na KISKu. Tak jako při každém jiném studiu je třeba připravit se na nápor vědomostí, které člověka posouvají dál, a úkolů, které je třeba zvládnout. Jen pro kombinované studenty, dále jen „dálkaře“, je na KISKu třeba přidat extra porci odhodlání. 
+Na tomto místě bychom se rádi podělili o zkušenosti z kombinovaného studia na KISKu. Tak jako při každém jiném studiu je třeba připravit se na nápor vědomostí, které člověka posouvají dál, a úkolů, které je třeba zvládnout. Jen pro kombinované studenty, dále jen „dálkaře“, je na <a href="http://kisk.phil.muni.cz/cs" alt="web KISKu" target="_blank">KISKu</a> třeba přidat extra porci odhodlání. 
 
 <img src="/images/vyuka-kisk.jpg" alt="výuka na KISK">
 
 Na úvod považujeme za důležité uvést, že dálkový student se obecně liší od denního tím, že již většinou má rodinu, studuje při zaměstnání, což přirozeně ovlivňuje a omezuje možnou sílu, kterou může do studia vložit, a proto volí formu studia dálkového. Na druhé straně však jeho zkušenost a oborové znalosti získané v předchozí praxi nabízí rozvinout studium dalším směrem. 
 
-KISK je ve srovnání s ostatními ústavy FF MU velmi mladá katedra, která má obrovský potenciál, ale která je zároveň stále ještě v tvůrčím kvasu a možná právě proto zde není mezí denním a dálkovým studiem žádný rozdíl. Denní a dálkoví studenti studují na KISKu společně. Stejná koncepce, stejné přednášky, stejné úkoly, stejné termíny a stejné požadavky na kredity. Denní a dálkoví studenti zde jedno jsou.
+KISK je ve srovnání s ostatními ústavy  <a href="http://www.phil.muni.cz/" alt="web FF MU" target="_blank">FF MU</a> velmi mladá katedra, která má obrovský potenciál, ale která je zároveň stále ještě v tvůrčím kvasu a možná právě proto zde není mezí denním a dálkovým studiem žádný rozdíl. Denní a dálkoví studenti studují na KISKu společně. Stejná koncepce, stejné přednášky, stejné úkoly, stejné termíny a stejné požadavky na kredity. Denní a dálkoví studenti zde jedno jsou.
 
 Pro denního studenta je to z podstaty kultury KISKu inspirativní, zde se může rozpřáhnout a realizovat. Pro dálkového studenta je to pak z podstaty nedotažené koncepce dálkového studia prostředí spíše deprimující.
 

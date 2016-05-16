@@ -6,7 +6,9 @@ tags: kisk předměty
 
 ## Co se z oficiálních zdrojů při zvažování dálkového studia na KISKu nedozvíte
 
-Na tomto místě bychom se rádi podělili o zkušenosti z kombinovaného studia na KISKu. Tak jako při každém jiném studiu je třeba připravit se na nápor vědomostí, které člověka posouvají dál, a úkolů, které je třeba zvládnout. Jen pro kombinované studenty, dále jen „dálkaře“, je na KISKu třeba přidat extra porci odhodlání. 
+Na tomto místě bychom se rádi podělili o zkušenosti z kombinovaného studia na KISKu. 
+
+Tak jako při každém jiném studiu je třeba připravit se na nápor vědomostí, které člověka posouvají dál, a úkolů, které je třeba zvládnout. Jen pro kombinované studenty, dále jen „dálkaře“, je na KISKu třeba přidat extra porci odhodlání. 
 
 <img src="/images/vyuka-kisk.jpg" alt="výuka na KISK">
 
@@ -32,3 +34,5 @@ Domácí úkoly jsou důležité, rozvíjí i upevňují znalosti při studiu. N
 <b>Zapáté zabraňte poztrácení informací</b><br>Občas se stane, že např. vyučující áčkového předmětu zadá domácí úkol pro deňáky i dálkaře v hodině mimo pátek pro dálkaře a nepošle o tom žádný email. Abyste se o všem dozvěděli včas, napojte se na síť spolužáků! <br><i>Rada na závěr: držte se facebookových skupin, držte se svých spolužáků-deňáků, jinak na KISKu nepřežijete.</i>
 
 Přestože je KISK velmi perspektivní katedrou s výbornými lidmi a náplní studia, tak dálkové studium zde zatím z vlastní zkušenosti nedoporučuji.
+
+Budeme rádi, když se konstruktivně připojíte k diskuzi pod tímto příspěvkem.

@@ -5,10 +5,7 @@ tags: kisk předměty
 ---
 
 ## Co se z oficiálních zdrojů o dálkovém studiu nedozvíte
-
-Na tomto místě bychom se rádi podělili o zkušenosti z kombinovaného studia na KISKu. 
-
-Tak jako při každém jiném studiu je třeba připravit se na nápor vědomostí, které člověka posouvají dál, a úkolů, které je třeba zvládnout. Jen pro kombinované studenty, dále jen „dálkaře“, je na KISKu třeba přidat extra porci odhodlání. 
+Na tomto místě bychom se rádi podělili o zkušenosti z kombinovaného studia na KISKu. Tak jako při každém jiném studiu je třeba připravit se na nápor vědomostí, které člověka posouvají dál, a úkolů, které je třeba zvládnout. Jen pro kombinované studenty, dále jen „dálkaře“, je na KISKu třeba přidat extra porci odhodlání. 
 
 <img src="/images/vyuka-kisk.jpg" alt="výuka na KISK">
 
